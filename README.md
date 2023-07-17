@@ -1,4 +1,4 @@
-# Melanoma_Detection_Assignment
+# Melanoma Detection Assignment
 # Abstract
 There are more than 200 different types of cancer. Melanoma is the most deadly type of skin cancer out of 200. Clinical screening is the first step in the melanoma diagnostic process, which is then followed by dermoscopic analysis and histopathological investigation. Skin cancer with melanoma has a good chance of being cured if it is discovered in its early stages. Visual inspection of the afflicted area of skin is the initial stage in the diagnosis of melanoma skin cancer. Dermatologists use a high-speed camera to capture dermatoscopic images of skin lesions, which have an accuracy of 65–80% in the diagnosis of melanoma without any additional technical assistance. The overall accuracy of melanoma diagnosis increased to 75-84% with additional visual assessment by cancer treatment specialists and dermatoscopic pictures. The project aims to build an automated classification system based on image processing techniques to classify skin cancer using skin lesions images.
 # Problem Statement
